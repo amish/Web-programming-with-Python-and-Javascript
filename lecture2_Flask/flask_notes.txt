@@ -1,0 +1,5 @@
+When running flask for first time:
+	set FLASK_APP=application
+	set FLAK_DEBUG=true
+
+flask run
